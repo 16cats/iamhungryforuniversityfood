@@ -1,0 +1,94 @@
+
+    {
+        "RestaurantName": "Restaurant Piato",
+        "RestaurantUrl": "https://www.semma.fi/en/restaurants/mattilanniemi/restaurant-piato/",
+        "PriceHeader": null,
+        "Footer": null,
+        "MenusForDays": [
+            {
+                "Date": "2025-02-21T00:00:00\u002B00:00",
+                "LunchTime": "10:30\u201315:30",
+                "SetMenus": [
+                    {
+                        "SortOrder": 6,
+                        "Name": "VEGETARIAN LUNCH",
+                        "Price": "2,95 / 6,30 / 8,60",
+                        "Components": [
+                            "H\u00E4rkis teriyaki\n (*, A, G, ILM, L, M, Veg)"
+                        ]
+                    },
+                    {
+                        "SortOrder": 23,
+                        "Name": "GRILL",
+                        "Price": "5,60/ 9,30 / 9,90",
+                        "Components": [
+                            "Rainbow trout, tandoori and sour cream (A, G, ILM, L)",
+                            "Roasted potatoes  (*, G, ILM, L, M, Veg)",
+                            "Grilled vegetables (G, L, M, Veg, VS)"
+                        ]
+                    },
+                    {
+                        "SortOrder": 24,
+                        "Name": "DESSERT",
+                        "Price": "1,20",
+                        "Components": []
+                    },
+                    {
+                        "SortOrder": 27,
+                        "Name": null,
+                        "Price": null,
+                        "Components": []
+                    },
+                    {
+                        "SortOrder": 31,
+                        "Name": "LUNCH",
+                        "Price": "2,95/ 6,30 / 8,60",
+                        "Components": [
+                            "Chicken rissoles in curry sauce (*, A, L)",
+                            "Rice (G, L, M, Veg)",
+                            "Apple and curry sauce (*, A, L)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Date": "2025-02-22T00:00:00\u002B00:00",
+                "LunchTime": "10:30\u201314:00",
+                "SetMenus": [
+                    {
+                        "SortOrder": 23,
+                        "Name": "GRILL",
+                        "Price": "5,60/ 9,30 / 9,90",
+                        "Components": [
+                            "Crispy pork schnitzel (A, L, M)",
+                            "Potato wedges (G, ILM, L, M, Veg)",
+                            "Garlic mayonnaise (A, G, L, VS)"
+                        ]
+                    },
+                    {
+                        "SortOrder": 31,
+                        "Name": "LUNCH",
+                        "Price": "2,95/ 6,30 / 8,60",
+                        "Components": [
+                            "Chicken in tandoori and coconut sauce (A, G, M, VS)",
+                            "Rice (G, L, M, Veg)"
+                        ]
+                    },
+                    {
+                        "SortOrder": 32,
+                        "Name": "VEGETARIAN LUNCH",
+                        "Price": "2,95 / 6,30 / 8,60",
+                        "Components": [
+                            "Gratinized halloumi and vegetable pasta\n\n (*, A, ILM)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Date": "2025-02-23T00:00:00\u002B00:00",
+                "LunchTime": null,
+                "SetMenus": []
+            }
+        ],
+        "ErrorText": null
+    }
